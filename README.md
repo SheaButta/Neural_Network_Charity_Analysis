@@ -27,7 +27,7 @@ __Client Deliverables:__
 
 ## Resources
 The resouces used for this analysis included;
-- Dataset: ![Charity Dataset](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Resources/charity_data.csv)
+- Dataset: [Charity Dataset](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Resources/charity_data.csv)
 - Machine Learning
 - Neural Networks
 - Visual Studio Code
