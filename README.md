@@ -47,17 +47,17 @@ To preprocess the data for the Neural Network Model the following tasks were com
 
 #### The EIN and NAME columns have been dropped
 
-    ![](https://github.com/SheaButta/Amazon_Vine_Analysis/blob/main/Images/Deliv_1_dropEinName.PNG)
+    ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_1_dropEinName.PNG)
 
 
 #### The columns with unique values have been grouped together
 
-    ![](https://github.com/SheaButta/Amazon_Vine_Analysis/blob/main/Images/Deliv_1_uniqColumnsGrouping.PNG)
+    ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_1_uniqColumnsGrouping.PNG)
 
 
 #### The categorical variables have been encoded using one-hot encoding
 
-    ![](https://github.com/SheaButta/Amazon_Vine_Analysis/blob/main/Images/Deliv_1_uniqColumnsGrouping.PNG)
+    ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_1_uniqColumnsGrouping.PNG)
 
 
 #### The images shows the follwoing;
@@ -66,7 +66,7 @@ To preprocess the data for the Neural Network Model the following tasks were com
  - The data is split into training and testing datasets 
  - The numerical values have been standardized using the StandardScaler() module
 
-    ![](https://github.com/SheaButta/Amazon_Vine_Analysis/blob/main/Images/Deliv_1_uniqColumnsGrouping.PNG)
+    ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_1_uniqColumnsGrouping.PNG)
 
 
 
@@ -84,16 +84,16 @@ This deliverable required me to generate answers/conclusions to a few important 
 
 There are three layers; two (2) hidden and one (1) outer layer.  This deep-learning neural network model is made of two hidden layers with 80 and 30 neurons.  The first and second layers use the "relu" activation.  There is also an outer layer which  utilizes the "sigmoid" activation.
 
-   ![](https://github.com/SheaButta/Amazon_Vine_Analysis/blob/main/Images/Deliv_2_Layers.PNG)
+   ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_2_Layers.PNG)
 
 Output for the structure of the model:
 
-    ![](https://github.com/SheaButta/Amazon_Vine_Analysis/blob/main/Images/Deliv_2_OutputModelStructure.PNG)
+    ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_2_OutputModelStructure.PNG)
 
 
 Output of the model’s loss and accuracy:
 
-    ![](https://github.com/SheaButta/Amazon_Vine_Analysis/blob/main/Images/Deliv_2_ModelLossAccuracy.PNG)
+    ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_2_ModelLossAccuracy.PNG)
 
 
 ### Deliverable 3: Optimize the Model
@@ -108,11 +108,11 @@ An optimized model was created with the following;
 #### The results are saved to an HDF5 file
 
    
-   ![](https://github.com/SheaButta/Amazon_Vine_Analysis/blob/main/Images/Deliv_3_OptimizedLayers.PNG)
+   ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_3_OptimizedLayers.PNG)
 
-   ![](https://github.com/SheaButta/Amazon_Vine_Analysis/blob/main/Images/Deliv_3_OptimizedModelLossAccuracy.PNG)
+   ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_3_OptimizedModelLossAccuracy.PNG)
 
-   
+  
 ## Summary
 The project has been completed.  The work neural network model did not reach the target of 75% accuracy. The target level would seem to indicate the model is not outperforming.
 We could ultimately use a supervised machine learning model such as the Random Forest Classifier to combine various decision trees and generate a classified output and evaluate its performance against our deep learning model.  This is all due to using a binary classification.
