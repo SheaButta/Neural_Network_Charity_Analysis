@@ -27,7 +27,7 @@ __Client Deliverables:__
 
 ## Resources
 The resouces used for this analysis included;
-- Dataset: ![Charit Dataset](https://github.com/SheaButta/Amazon_Vine_Analysis/blob/main/Images/charity_data.csv)
+- Dataset: ![Charit Dataset](https://github.com/SheaButta/Amazon_Vine_Analysis/blob/main/Resources/charity_data.csv)
 - Machine Learning
 - Neural Networks
 - Visual Studio Code
@@ -67,6 +67,8 @@ To preprocess the data for the Neural Network Model the following tasks were com
  - The numerical values have been standardized using the StandardScaler() module
 
     ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_1_Splitdata_TargetArrays.PNG)
+    
+    ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_1_StandardScaler.PNG)
 
 
 
