@@ -47,17 +47,17 @@ To preprocess the data for the Neural Network Model the following tasks were com
 
 #### The EIN and NAME columns have been dropped
 
-    ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_1_dropEinName.PNG)
+   ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_1_dropEinName.PNG)
 
 
 #### The columns with unique values have been grouped together
 
-    ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_1_uniqColumnsGrouping.PNG)
+   ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_1_uniqColumnsGrouping.PNG)
 
 
 #### The categorical variables have been encoded using one-hot encoding
 
-    ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_1_uniqColumnsGrouping.PNG)
+   ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_1_uniqColumnsGrouping.PNG)
 
 
 #### The images shows the follwoing;
@@ -88,7 +88,7 @@ There are three layers; two (2) hidden and one (1) outer layer.  This deep-learn
 
 Output for the structure of the model:
 
-    ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_2_OutputModelStructure.PNG)
+   ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_2_OutputModelStructure.PNG)
 
 
 Output of the model’s loss and accuracy:
