@@ -95,7 +95,7 @@ Output for the structure of the model:
 
 Output of the model’s loss and accuracy:
 
-    ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_2_ModelLossAccuracy.PNG)
+   ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_2_ModelLossAccuracy.PNG)
 
 
 ### Deliverable 3: Optimize the Model
