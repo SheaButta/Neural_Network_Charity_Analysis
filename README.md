@@ -57,7 +57,7 @@ To preprocess the data for the Neural Network Model the following tasks were com
 
 #### The categorical variables have been encoded using one-hot encoding
 
-   ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_1_uniqColumnsGrouping.PNG)
+   ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_1_CategoryOneHot.PNG)
 
 
 #### The images shows the follwoing;
@@ -66,7 +66,7 @@ To preprocess the data for the Neural Network Model the following tasks were com
  - The data is split into training and testing datasets 
  - The numerical values have been standardized using the StandardScaler() module
 
-    ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_1_uniqColumnsGrouping.PNG)
+    ![](https://github.com/SheaButta/Neural_Network_Charity_Analysis/blob/main/Images/Deliv_1_Splitdata_TargetArrays.PNG)
 
 
 
